@@ -35,8 +35,7 @@ provided:
 
 	sudo python setup.py install
 
-added: 
+fixed history: 
 
 	5.20 you can comment the host to avoid exec shell command.
-	
 	5.20 you can use port for the host file now.
