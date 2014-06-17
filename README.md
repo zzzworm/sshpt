@@ -37,5 +37,5 @@ provided:
 
 fixed history: 
 
-	5.20 you can comment the host to avoid exec shell command.
-	5.20 you can use port for the host file now.
+	20th,May: you can comment the host to avoid exec shell command.
+	20th,May: you can use port for the host file now.
